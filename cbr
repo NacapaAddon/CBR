@@ -670,7 +670,14 @@
 <info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
 </item>
 
-
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+    <title>Meu vídeo do YouTube</title>
+    <description>Descrição do vídeo</description>
+    <link>https://www.youtube.com/watch?v=SsjVHBvh1HQ</link>
+    <enclosure type="video/mp4" url="https://www.youtube.com/watch?v=SsjVHBvh1HQ"/>
+    <media:thumbnail url="https://i.ytimg.com/vi/SsjVHBvh1HQ/hqdefault.jpg" />
+</item>
 
 
 
